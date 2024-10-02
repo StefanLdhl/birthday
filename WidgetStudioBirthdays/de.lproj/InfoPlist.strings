@@ -1,0 +1,19 @@
+/* 
+  InfoPlist.strings
+  WidgetStudioBirthdays
+
+  Created by Stefan Liesendahl on 01.02.21.
+  
+*/
+
+"AddNewActionTitle" = "Neuer Geburtstag";
+"ImportActionTitle" = "Geburtstag importieren";
+
+"NSCameraUsageDescription" = "Um ein neues Profilbild für diesen Kontakt hinzuzufügen, benötigt Widget Studio Zugriff auf deine Kamera. Alle Daten werden ausschließlich auf deinem Gerät (bzw. in deiner privaten iCloud) gespeichert und mit niemandem geteilt.\n\nDu kannst diese Berechtigung jederzeit in den Systemeinstellungen widerrufen.";
+
+"NSContactsUsageDescription" = "Um deine Geburtstage importieren zu können, benötigt Widget Studio Zugriff auf deine Kontakte. Alle importierten Daten werden ausschließlich auf deinem Gerät (bzw. in deiner privaten iCloud) gespeichert und mit niemandem geteilt.\n\nDu kannst diese Berechtigung jederzeit in den Systemeinstellungen widerrufen.";
+
+
+"CFBundleDisplayName" = "Geburtstage";
+
+"CFBundleName" = "Geburtstage";

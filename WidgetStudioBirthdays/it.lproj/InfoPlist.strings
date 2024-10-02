@@ -1,0 +1,19 @@
+/* 
+  InfoPlist.strings
+  WidgetStudioBirthdays
+
+  Created by Stefan Liesendahl on 01.02.21.
+  
+*/
+
+"AddNewActionTitle" = "Nuovo Compleanno";
+"ImportActionTitle" = "Importa Compleanni";
+
+"NSCameraUsageDescription" = "Per scattare una nuova foto di profilo per questo contatto, Widget Studio ha bisogno di accedere alla tua fotocamera. Puoi revocare questo permesso in qualsiasi momento nelle impostazioni di sistema.\n\nTutti i dati sono memorizzati esclusivamente sul tuo dispositivo (o nel tuo iCloud privato) e non sono mai condivisi con nessun altro.";
+
+"NSContactsUsageDescription" = "Per importare i tuoi compleanni, Widget Studio ha bisogno di accedere ai tuoi contatti. Puoi revocare questo permesso in qualsiasi momento nelle impostazioni di sistema.\n\nTutti i dati importati sono memorizzati esclusivamente sul tuo dispositivo (o nel tuo iCloud privato) e non sono mai condivisi con nessun altro.";
+
+
+"CFBundleDisplayName" = "Compleanni";
+
+"CFBundleName" = "Compleanni";

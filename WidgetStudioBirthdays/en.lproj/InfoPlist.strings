@@ -1,0 +1,20 @@
+/* 
+  InfoPlist.strings
+  WidgetStudioBirthdays
+
+  Created by Stefan Liesendahl on 01.02.21.
+  
+*/
+
+
+"AddNewActionTitle" = "New Birthday";
+"ImportActionTitle" = "Import Birthdays";
+
+"NSCameraUsageDescription" = "To take a new profile picture for this contact, Widget Studio needs access to your camera. You can revoke this permission at any time within the system settings.\n\nAll data is stored exclusively on your device (or in your private iCloud) and is never shared with anyone else.";
+
+"NSContactsUsageDescription" = "To import your birthdays, Widget Studio needs to access your contacts. You can revoke this permission at any time within the system settings.\n\nAll imported data is stored exclusively on your device (or in your private iCloud) and is never shared with anyone else.";
+
+
+"CFBundleDisplayName" = "Birthdays";
+
+"CFBundleName" = "Birthdays";

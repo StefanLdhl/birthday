@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="20B50" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithCloudKit="YES" userDefinedModelVersionIdentifier="">
+    <entity name="Birthday" representedClassName="Birthday" syncable="YES" codeGenerationType="class">
+        <attribute name="anniversary" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="birthdate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="cnContactId" optional="YES" attributeType="String"/>
+        <attribute name="cnContactImportDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="creationDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="favorite" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="fileSource" optional="YES" attributeType="String"/>
+        <attribute name="firstName" optional="YES" attributeType="String"/>
+        <attribute name="identifier" optional="YES" attributeType="String"/>
+        <attribute name="lastChangeDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="lastName" optional="YES" attributeType="String"/>
+        <attribute name="memorialized" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="nickname" optional="YES" attributeType="String"/>
+        <attribute name="notes" optional="YES" attributeType="String"/>
+        <attribute name="notificationsMuted" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="otherDate1" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="otherDate2" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="picture" optional="YES" attributeType="Binary"/>
+        <attribute name="pictureCnOverriden" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="salutation" optional="YES" attributeType="String"/>
+        <attribute name="userDataField1" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="userDataField2" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="userDataField3" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="userDataField4" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="userDataField5" optional="YES" attributeType="String"/>
+        <attribute name="userDataField6" optional="YES" attributeType="String"/>
+        <attribute name="userDataField7" optional="YES" attributeType="Binary"/>
+        <attribute name="userDataField8" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="userDataField9" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <relationship name="customReminders" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Reminder" inverseName="birthday" inverseEntity="Reminder"/>
+        <relationship name="group" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Group" inverseName="birthdays" inverseEntity="Group"/>
+        <relationship name="historyItems" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="HistoryItem" inverseName="birthday" inverseEntity="HistoryItem"/>
+        <relationship name="otherDates" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="OtherDate" inverseName="birthday" inverseEntity="OtherDate"/>
+        <relationship name="profilePicture" optional="YES" maxCount="1" deletionRule="Cascade" destinationEntity="Picture" inverseName="birthday" inverseEntity="Picture"/>
+    </entity>
+    <entity name="Group" representedClassName="Group" syncable="YES" codeGenerationType="class">
+        <attribute name="color1" optional="YES" attributeType="String"/>
+        <attribute name="color2" optional="YES" attributeType="String"/>
+        <attribute name="colorId" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="creationDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="identifier" optional="YES" attributeType="String"/>
+        <attribute name="lastChangeDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="userDataField1" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="userDataField2" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="userDataField3" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="userDataField4" optional="YES" attributeType="String"/>
+        <attribute name="userDataField5" optional="YES" attributeType="String"/>
+        <attribute name="userDataField6" optional="YES" attributeType="Binary"/>
+        <attribute name="userDataField7" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="userDataField8" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <relationship name="birthdays" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Birthday" inverseName="group" inverseEntity="Birthday"/>
+        <relationship name="dailyReminders" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Reminder" inverseName="group" inverseEntity="Reminder"/>
+        <relationship name="preferredMessageTemplate" optional="YES" maxCount="1" deletionRule="Cascade" destinationEntity="Message" inverseName="group" inverseEntity="Message"/>
+    </entity>
+    <entity name="HistoryItem" representedClassName="HistoryItem" syncable="YES" codeGenerationType="class">
+        <attribute name="celebrationDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="celebrationType" optional="YES" attributeType="String"/>
+        <attribute name="creationDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="identifier" optional="YES" attributeType="String"/>
+        <attribute name="note" optional="YES" attributeType="String"/>
+        <attribute name="userDataField1" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="userDataField2" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="userDataField3" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="userDataField4" optional="YES" attributeType="String"/>
+        <attribute name="userDataField5" optional="YES" attributeType="String"/>
+        <attribute name="userDataField6" optional="YES" attributeType="Binary"/>
+        <attribute name="userDataField7" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="userDataField8" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <relationship name="birthday" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Birthday" inverseName="historyItems" inverseEntity="Birthday"/>
+    </entity>
+    <entity name="Message" representedClassName="Message" syncable="YES" codeGenerationType="class">
+        <attribute name="content" optional="YES" attributeType="String"/>
+        <attribute name="creationDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="identifier" optional="YES" attributeType="String"/>
+        <attribute name="isDefault" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="lastChangeDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="localizable" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+        <attribute name="userDataField1" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="userDataField2" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="userDataField3" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="userDataField4" optional="YES" attributeType="String"/>
+        <attribute name="userDataField5" optional="YES" attributeType="String"/>
+        <attribute name="userDataField6" optional="YES" attributeType="Binary"/>
+        <attribute name="userDataField7" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="userDataField8" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <relationship name="group" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Group" inverseName="preferredMessageTemplate" inverseEntity="Group"/>
+    </entity>
+    <entity name="OtherDate" representedClassName="OtherDate" syncable="YES" codeGenerationType="class">
+        <attribute name="creationDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="fireDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="identifier" optional="YES" attributeType="String"/>
+        <attribute name="lastChangeDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="notification" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="type" optional="YES" attributeType="String"/>
+        <attribute name="userDataField1" optional="YES" attributeType="Boolean" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="userDataField2" optional="YES" attributeType="Boolean" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="userDataField3" optional="YES" attributeType="Integer 16" usesScalarValueType="YES"/>
+        <attribute name="userDataField4" optional="YES" attributeType="String"/>
+        <attribute name="userDataField5" optional="YES" attributeType="String"/>
+        <attribute name="userDataField6" optional="YES" attributeType="Binary"/>
+        <attribute name="userDataField7" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="userDataField8" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <relationship name="birthday" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Birthday" inverseName="otherDates" inverseEntity="Birthday"/>
+    </entity>
+    <entity name="Picture" representedClassName="Picture" syncable="YES" codeGenerationType="class">
+        <attribute name="birthdayIdentifier" optional="YES" attributeType="String"/>
+        <attribute name="creationDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="identifier" optional="YES" attributeType="String"/>
+        <attribute name="picCategory" optional="YES" attributeType="String"/>
+        <attribute name="pictureData" optional="YES" attributeType="Binary"/>
+        <attribute name="userDataField1" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="userDataField2" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="userDataField3" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="userDataField4" optional="YES" attributeType="String"/>
+        <attribute name="userDataField5" optional="YES" attributeType="String"/>
+        <attribute name="userDataField6" optional="YES" attributeType="Binary"/>
+        <attribute name="userDataField7" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="userDataField8" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <relationship name="birthday" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Birthday" inverseName="profilePicture" inverseEntity="Birthday"/>
+    </entity>
+    <entity name="Reminder" representedClassName="Reminder" syncable="YES" codeGenerationType="class">
+        <attribute name="creationDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="customText" optional="YES" attributeType="String"/>
+        <attribute name="deactivated" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="groupedNotification" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="identifier" optional="YES" attributeType="String"/>
+        <attribute name="lastChangeDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="sound" optional="YES" attributeType="String"/>
+        <attribute name="time" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="type" optional="YES" attributeType="String"/>
+        <attribute name="userDataField1" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="userDataField2" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="userDataField3" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="userDataField4" optional="YES" attributeType="String"/>
+        <attribute name="userDataField5" optional="YES" attributeType="String"/>
+        <attribute name="userDataField6" optional="YES" attributeType="Binary"/>
+        <attribute name="userDataField7" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="userDataField8" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <relationship name="birthday" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Birthday" inverseName="customReminders" inverseEntity="Birthday"/>
+        <relationship name="group" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Group" inverseName="dailyReminders" inverseEntity="Group"/>
+    </entity>
+    <elements>
+        <element name="Birthday" positionX="-63" positionY="-18" width="128" height="539"/>
+        <element name="Group" positionX="-54" positionY="9" width="128" height="299"/>
+        <element name="HistoryItem" positionX="-54" positionY="144" width="128" height="239"/>
+        <element name="Message" positionX="-54" positionY="135" width="128" height="269"/>
+        <element name="OtherDate" positionX="-45" positionY="153" width="128" height="269"/>
+        <element name="Picture" positionX="-45" positionY="144" width="128" height="239"/>
+        <element name="Reminder" positionX="-54" positionY="126" width="128" height="314"/>
+    </elements>
+</model>

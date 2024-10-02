@@ -1,0 +1,1254 @@
+
+
+"app.accessibility.views.editView.editPicButton.title" = "Edit profile picture";
+
+
+"app.accessibility.views.groupDetailsView.groupPicture.title" = "Group picture with the selected color gradient";
+
+
+"app.accessibility.views.list.addButton.title" = "Add event";
+
+
+"app.accessibility.views.list.profilePicture.initials" = "Person initials";
+
+
+"app.accessibility.views.list.profilePicture.pic" = "Person profile picture";
+
+
+"app.accessibility.views.list.settingsButton.title" = "Settings";
+
+
+"app.accessibility.views.list.sortButton.title" = "List sorting";
+
+
+"app.accessibility.views.list.sortButton.value1" = "alphabetically";
+
+
+"app.accessibility.views.list.sortButton.value2" = "by date";
+
+
+"app.accessibility.views.list.sortButton.value3" = "by groups";
+
+
+"app.accessibility.views.list.starButton.startTitle" = "Star";
+
+
+"app.accessibility.views.list.starButton.startTitle.plural" = "Stars";
+
+
+"app.appCountryCode" = "ENG";
+
+
+"app.dateUnit.day" = "Day";
+
+
+"app.dateUnit.day.p" = "Days";
+
+
+"app.dateUnit.hour" = "Hour";
+
+
+"app.dateUnit.hour.p" = "Hours";
+
+
+"app.dateUnit.minute" = "Minute";
+
+
+"app.dateUnit.minute.p" = "Minutes";
+
+
+"app.dateUnit.month" = "Month";
+
+
+"app.dateUnit.month.p" = "Months";
+
+
+"app.dateUnit.week" = "Week";
+
+
+"app.dateUnit.week.p" = "Weeks";
+
+
+"app.dateUnit.year" = "Year";
+
+
+"app.dateUnit.year.p" = "Years";
+
+
+"app.defaultData.groups.friends" = "Family & Friends";
+
+
+"app.defaultData.groups.work" = "Work";
+
+
+"app.defaultData.messageTemplates.default1.content" = "Happy birthday [firstName]!🥳 Enjoy your big day!☀️";
+
+
+"app.defaultData.messageTemplates.default1.title" = "Friends template";
+
+
+"app.defaultData.messageTemplates.default2.content" = "Happy Birthday [firstName]!🎉\nHave a great one!🍾";
+
+
+"app.defaultData.messageTemplates.default2.title" = "Friends template 2";
+
+
+"app.defaultData.messageTemplates.default3.content" = "Hey [firstName], all the best for your birthday! Have a wonderful day! ☀️";
+
+
+"app.defaultData.messageTemplates.default3.title" = "Work template";
+
+
+"app.defaultData.templates.content.new" = "Hey [firstName],\n...";
+
+
+"app.defaultData.templates.title.new" = "Template";
+
+
+"app.feedbackMail.subject" = "Feedback for Widget Studio Birthday";
+
+
+"app.fileImport.columnContentTypes.birthdate" = "Birthday";
+
+
+"app.fileImport.columnContentTypes.day" = "Day";
+
+
+"app.fileImport.columnContentTypes.firstName" = "First name";
+
+
+"app.fileImport.columnContentTypes.fullName" = "Name";
+
+
+"app.fileImport.columnContentTypes.lastName" = "Last name";
+
+
+"app.fileImport.columnContentTypes.middleName" = "Middle name";
+
+
+"app.fileImport.columnContentTypes.month" = "Month";
+
+
+"app.fileImport.columnContentTypes.year" = "Year";
+
+
+"app.messageTemplates.placeholderTitle.age" = "Current age*";
+
+
+"app.messageTemplates.placeholderTitle.agePlus1" = "Current age + 1*";
+
+
+"app.messageTemplates.placeholderTitle.birthday" = "Birthday";
+
+
+"app.messageTemplates.placeholderTitle.firstName" = "First name";
+
+
+"app.messageTemplates.placeholderTitle.lastName" = "Last name*";
+
+
+"app.messageTemplates.placeholderTitle.ordinal" = "Current age (ordinal)*";
+
+
+"app.messageTemplates.placeholderTitle.ordinalPlus1" = "Current age + 1 (ordinal)*";
+
+
+"app.messageTemplates.placeholderTitle.ownName" = "Own name";
+
+
+"app.notification.promoNotification.20minutes.desc" = "You still have 20 minutes to unlock all features for an outrageously good price. Offer still stands! ⚡️🎁.";
+
+
+"app.notification.promoNotification.20minutes.title" = "Hey, I'm your little reminder 👾";
+
+
+"app.notification.renewedNotificationAction.againBelatedIn1DayAction" = "Remind me tomorrow...";
+
+
+"app.notification.renewedNotificationAction.againIn1DayAction" = "Remind me Tomorrow";
+
+
+"app.notification.renewedNotificationAction.againIn1HourAction" = "Remind me in 1 Hour";
+
+
+"app.notification.renewedNotificationAction.againIn1WeekAction" = "Remind me in 1 Week";
+
+
+"app.notification.renewedNotificationAction.againOnDayBeforeDayOfBirth" = "Remind me 1 day before";
+
+
+"app.notification.renewedNotificationAction.againOnDayOfBirth" = "Remind me when it's time";
+
+
+"app.notification.renewedNotificationAction.celebrateBelatedlyAction" = "Give your belated congrats";
+
+
+"app.notification.renewedNotificationAction.celebrateNowAction" = "🎉 CONGRATULATE";
+
+
+"app.notification.upcomingBirthdayText.content.onBelayedBirthday" = "Tap here to send your belated congratulations, or press and hold to be reminded again later.";
+
+
+"app.notification.upcomingBirthdayText.content.onBirthday" = "Tap here to send your congratulations, or press and hold to be reminded again later.";
+
+
+"app.notification.upcomingBirthdayText.content.soon.1" = "Get your party hats ready! 🥳";
+
+
+"app.notification.upcomingBirthdayText.content.soon.2" = "Get your party hats ready! 🥳";
+
+
+"app.notification.upcomingBirthdayText.content.soon.3" = "All birthday presents wrapped? 🎁";
+
+
+"app.notification.upcomingBirthdayText.content.suffix" = "Press and hold to be reminded again later.";
+
+
+"app.notification.upcomingBirthdayText.fallBack.desc" = "Open the app to see who's up next.";
+
+
+"app.notification.upcomingBirthdayText.fallBack.title" = "We have a reason to celebrate soon!";
+
+
+"app.notification.upcomingBirthdayText.title.daysBefore1.%@" = "It's %@'s birthday tomorrow";
+
+
+"app.notification.upcomingBirthdayText.title.daysBefore2.%@" = "It's %@'s birthday in 2 days";
+
+
+"app.notification.upcomingBirthdayText.title.daysBefore3.%@" = "%@'s birthday is in 3 days";
+
+
+"app.notification.upcomingBirthdayText.title.monthsBefore1.%@" = "%@'s birthday is in 1 month";
+
+
+"app.notification.upcomingBirthdayText.title.monthsBefore2.%@" = "%@'s birthday is in 2 months";
+
+
+"app.notification.upcomingBirthdayText.title.monthsBefore3.%@" = "%@'s birthday is in 3 months";
+
+
+"app.notification.upcomingBirthdayText.title.onBirthdate.%@" = "It's %@'s birthday today!";
+
+
+"app.notification.upcomingBirthdayText.title.universal.title.belated.%@.%@" = "%@'s birthday was on %@";
+
+
+"app.notification.upcomingBirthdayText.title.universal.title.upcoming.%@.%@" = "%@'s birthday is on %@";
+
+
+"app.notification.upcomingBirthdayText.title.weeksBefore1.%@" = "Only 1 more week until %@'s birthday";
+
+
+"app.notification.upcomingBirthdayText.title.weeksBefore2.%@" = "%@'s birthday is in 2 weeks";
+
+
+"app.notification.upcomingBirthdayText.title.weeksBefore3.%@" = "%@'s birthday is in 3 weeks";
+
+
+"app.quickAction.mail" = "E-mail";
+
+
+"app.quickAction.message" = "Message";
+
+
+"app.quickAction.otherApps" = "Other apps";
+
+
+"app.quickAction.phone" = "Phone";
+
+
+"app.quickAction.telegram" = "Telegram";
+
+
+"app.quickAction.threema" = "Threema";
+
+
+"app.quickAction.whatsapp" = "WhatsApp";
+
+
+"app.reminderSound.defaultSound" = "Default";
+
+
+"app.reminderSound.partyHorn" = "Party horn";
+
+
+"app.reminderSound.whistle" = "Whistle";
+
+
+"app.reminderType.daysBefore1" = "1 day before";
+
+
+"app.reminderType.daysBefore2" = "2 days before";
+
+
+"app.reminderType.daysBefore3" = "3 days before";
+
+
+"app.reminderType.monthsBefore1" = "1 month before";
+
+
+"app.reminderType.monthsBefore2" = "2 months before";
+
+
+"app.reminderType.monthsBefore3" = "3 months before";
+
+
+"app.reminderType.onBirthdate" = "On birthday";
+
+
+"app.reminderType.weeksBefore1" = "1 week before";
+
+
+"app.reminderType.weeksBefore2" = "2 weeks before";
+
+
+"app.reminderType.weeksBefore3" = "3 weeks before";
+
+
+"app.storePackageType.annual" = "Annual";
+
+
+"app.storePackageType.info.lifetime" = "Buy once, keep forever. No subscription!";
+
+
+"app.storePackageType.info.lifetime.prgressHud" = "One-time purchase";
+
+
+"app.storePackageType.info.subscriptions.monthly.%@" = "That's only %@ per month.";
+
+
+"app.storePackageType.info.subscriptions.singleMonth" = "Perfect to try our features.";
+
+
+"app.storePackageType.info.trial.%@" = "Start your %@ free trial now!";
+
+
+"app.storePackageType.lifetime" = "Lifetime";
+
+
+"app.storePackageType.lifetime.addition.%@" = "once %@";
+
+
+"app.storePackageType.monthly" = "Monthly";
+
+
+"app.storePackageType.threeMonth" = "3 Months";
+
+
+"app.timePeriods.nextMonth" = "Next month";
+
+
+"app.timePeriods.nextWeek" = "Next week";
+
+
+"app.timePeriods.thisMonth" = "This month";
+
+
+"app.timePeriods.thisWeek" = "This week";
+
+
+"app.timePeriods.today" = "TODAY";
+
+
+"app.timePeriods.tomorrow" = "Tomorrow";
+
+
+"app.views.birthdayDetailView.countdownView.onBirthdayText" = "Happy Birthday!";
+
+
+"app.views.birthdayDetailView.countdownView.subtitleAgeCount.%@" = "%@ Birthday";
+
+
+"app.views.birthdayDetailView.privacyInfoAlert.content" = "Since we do not store any personal contact information (email, phone number, address, ...), it is necessary to confirm the recipient when using quick actions.\n\nWidget Studio prepares your congratulations and opens the appropriate app. You just need to select the recipient.\n\nIf you have any questions, feel free to contact us anytime.";
+
+
+"app.views.birthdayDetailView.privacyInfoAlert.title" = "User info";
+
+
+"app.views.birthdayDetailView.quickAction.chooseTemplateMenu.content.%@" = "Which template do you want to use to send %@ your congratulations?\nYou can customize your templates in the settings.";
+
+
+"app.views.birthdayDetailView.quickAction.chooseTemplateMenu.defaultInfoText" = "Default";
+
+
+"app.views.birthdayDetailView.quickAction.chooseTemplateMenu.emptyTemplateAction" = "No template";
+
+
+"app.views.birthdayDetailView.quickAction.chooseTemplateMenu.title" = "Choose a template";
+
+
+"app.views.birthdayDetailView.quickAction.emailSubject" = "Happy Birthday!";
+
+
+"app.views.birthdayEditor.list.placeholder.firstName" = "First name";
+
+
+"app.views.birthdayEditor.list.placeholder.lastName" = "Last name";
+
+
+"app.views.birthdayEditor.list.title.birthday" = "Birthday";
+
+
+"app.views.birthdayEditor.list.title.group" = "Group";
+
+
+"app.views.birthdayEditor.photoPicker.menu.option.delete" = "Delete photo";
+
+
+"app.views.birthdayEditor.photoPicker.menu.option.gallery" = "Camera Roll";
+
+
+"app.views.birthdayEditor.photoPicker.menu.option.takePhoto" = "Take photo";
+
+
+"app.views.birthdayEditor.photoPicker.menu.option.takeSelfie" = "Take selfie";
+
+
+"app.views.birthdayEditor.photoPicker.menu.option.useContactPic" = "Use contact picture";
+
+
+"app.views.birthdayEditor.photoPicker.menu.title" = "Set a new photo";
+
+
+"app.views.birthdayEditor.saveDialog.actions.discard" = "Discard changes";
+
+
+"app.views.birthdayEditor.saveDialog.actions.save" = "Save";
+
+
+"app.views.birthdayEditor.saveDialog.edit.subtitle" = "Do you want to save your changes?";
+
+
+"app.views.birthdayEditor.saveDialog.new.missingName.subtitle" = "To save the entry, please enter a valid name.";
+
+
+"app.views.birthdayEditor.saveDialog.new.missingName.title" = "Something is missing";
+
+
+"app.views.birthdayEditor.saveDialog.new.subtitle" = "Do you want to discard this contact?";
+
+
+"app.views.editReminders.title" = "Edit Reminder";
+
+
+"app.views.fileImport.errorHandling.fileError.desc" = "The file could not be read. Please try with another file.";
+
+
+"app.views.fileImport.errorHandling.fileError.format.desc.%@" = "The selected file format (%@) is invalid. Currently only CSV files are supported. If you need another file type, feel free to contact us.";
+
+
+"app.views.fileImport.errorHandling.fileError.title" = "Invalid file";
+
+
+"app.views.fileImport.errorHandling.importProcessError.default.title" = "Import error";
+
+
+"app.views.fileImport.errorHandling.importProcessError.emptyFile.desc" = "The file does not contain any valid entries.";
+
+
+"app.views.fileImport.errorHandling.importProcessError.errorFile.desc" = "An error occurred while processing the file.";
+
+
+"app.views.fileImport.errorHandling.importProcessError.input.desc" = "Not all required content types have been assigned. Birthday and name must be assigned in order to continue.";
+
+
+"app.views.fileImport.errorHandling.importProcessError.input.title" = "Input incomplete";
+
+
+"app.views.fileImport.errorHandling.importProcessError.missingFile.desc" = "No file selected.";
+
+
+"app.views.fileImport.errorHandling.importProcessError.processingError.desc" = "An error occurred during processing.";
+
+
+"app.views.fileImport.errorHandling.importProcessError.processingErrorLines.desc" = "The rows of the file could not be parsed.\n\nLog:";
+
+
+"app.views.fileImport.start.saveMenu.action.discard" = "Cancel";
+
+
+"app.views.fileImport.start.saveMenu.desc" = "No contacts will be imported.";
+
+
+"app.views.fileImport.start.saveMenu.title" = "Cancel import?";
+
+
+"app.views.fileImport.start.table.cells.mapping.mapButton.title" = "Map";
+
+
+"app.views.fileImport.start.table.cells.upload.deleteButton.title" = "Remove";
+
+
+"app.views.fileImport.start.table.cells.upload.noFileLabel.text" = "No file selected";
+
+
+"app.views.fileImport.start.table.cells.upload.removeFileAlert.desc" = "Your current progress will be discarded.";
+
+
+"app.views.fileImport.start.table.cells.upload.removeFileAlert.title" = "Remove file?";
+
+
+"app.views.fileImport.start.table.cells.upload.uploadButton.title" = "Upload";
+
+
+"app.views.fileImport.start.table.footer.mapping.content" = "Assign a content type to each relevant column. Birthday and name must be assigned in order to continue.";
+
+
+"app.views.fileImport.start.table.footer.upload.content" = "The entries must be stored as CSV (\"Comma-separated values\"). You can even import files directly from your device (e.g. from an email) into Widget Studio.";
+
+
+"app.views.fileImport.start.table.header.mapping.additionalTitle1" = "Column";
+
+
+"app.views.fileImport.start.table.header.mapping.additionalTitle2" = "Content type";
+
+
+"app.views.fileImport.start.table.header.mapping.title" = "Assign columns (Mapping)";
+
+
+"app.views.fileImport.start.table.header.upload.title" = "Select your CSV file";
+
+
+"app.views.fileImport.start.table.mappingMenu.action.removeLink.title" = "Unmap";
+
+
+"app.views.fileImport.start.table.mappingMenu.desc.%@" = "What does the column \"%@\" contain?";
+
+
+"app.views.fileImport.start.table.mappingMenu.title" = "Link content type";
+
+
+"app.views.fileImport.title" = "CSV Import";
+
+
+"app.views.fileImportPreview.logBookButton.alert.desc" = "Some contacts could not be imported and are not part of this list.\n\nLog:";
+
+
+"app.views.fileImportPreview.logBookButton.alert.title" = "Report";
+
+
+"app.views.fileImportPreview.title.%d" = "%d Contacts";
+
+
+"app.views.fileImportSummary.header.title.%d" = "%d Contacts";
+
+
+"app.views.fileImportSummary.title" = "Import Summary";
+
+
+"app.views.fileImportWebView.title" = "How to import a CSV file";
+
+
+"app.views.groupEditor.list.colorPicker.infoText" = "Tap the plus to adjust the respective color.";
+
+
+"app.views.groupEditor.list.colorPicker.swipeToSave" = "Swipe down to save";
+
+
+"app.views.groupEditor.list.placeholder.name" = "Name of the group";
+
+
+"app.views.groupEditor.list.title.colors" = "Color";
+
+
+"app.views.groupEditor.list.title.messages" = "Message Template";
+
+
+"app.views.groupEditor.list.title.reminders" = "Reminders";
+
+
+"app.views.groupEditor.saveDialog.actions.discard" = "Discard changes";
+
+
+"app.views.groupEditor.saveDialog.actions.save" = "Save";
+
+
+"app.views.groupEditor.saveDialog.edit.subtitle" = "Do you want to save your changes?";
+
+
+"app.views.groupList.addNewDialog.defaultGroupName" = "New Group";
+
+
+"app.views.groupList.addNewDialog.placeholder" = "Name of the group";
+
+
+"app.views.groupList.button.addNew" = "Add new group";
+
+
+"app.views.groupList.cell.subtitle.plural.%d" = "%d Birthdays";
+
+
+"app.views.groupList.cell.subtitle.singular" = "1 Birthday";
+
+
+"app.views.groupList.lastGroupAlert.desc" = "The last group cannot be deleted. Create at least one more group to move your contacts to.";
+
+
+"app.views.groupList.lastGroupAlert.title" = "Last group";
+
+
+"app.views.groupList.moveEntriesAlert.desc.%@.%d" = "The group \"%@\" still contains %d contacts. Choose a group to move these contacts to.";
+
+
+"app.views.groupList.moveEntriesAlert.title" = "Move contacts";
+
+
+"app.views.groups.title" = "Groups";
+
+
+"app.views.import.continueButton.title" = "Continue";
+
+
+"app.views.import.limitWarningAlert.button.continue.%d" = "Select %d for import";
+
+
+"app.views.import.limitWarningAlert.button.okay" = "Okay";
+
+
+"app.views.import.limitWarningAlert.button.openPurchaseScreen" = "Become a Pro";
+
+
+"app.views.import.limitWarningAlert.content.%d" = "Hey! Thank you for using Widget Studio. We are happy to have you!\n\nYou are currently using the free version of our app. To be able to create more than 7 birthdays, we have built an extended version exclusively for our Pro users. This allows us to steadily cover the development costs of Widget Studio. With your one-time-purchase you support the further development of this app and also unlock many more features besides unlimited imports. Sounds fair, doesn’t it?\n\nWith the current version you can still create or import %d birthday(s).\n\nThank you for your support! ❤️";
+
+
+"app.views.import.limitWarningAlert.title" = "Thanks for your trust!";
+
+
+"app.views.import.list.button.deselect.title" = "Deselect all";
+
+
+"app.views.import.list.button.select.title" = "Select all";
+
+
+"app.views.import.list.sectionTitle.alreadyImported" = "Already imported";
+
+
+"app.views.import.list.sectionTitle.toImport" = "Not imported yet";
+
+
+"app.views.import.noAccessView.buttonTitle" = "Open system settings";
+
+
+"app.views.import.noAccessView.infoText" = "To import your birthdays, we need access to your contacts.\n\nYou can revoke this permission at any time within the system settings.";
+
+
+"app.views.import.noAccessView.infoTitle" = "Missing permisson";
+
+
+"app.views.import.summary.list.birthdaysCountLabel.%d" = "%d Birthdays";
+
+
+"app.views.import.summary.list.birthdaysCountLabel.new.%d" = "%d new";
+
+
+"app.views.import.summary.list.birthdaysCountLabel.old.%d" = "%d updated";
+
+
+"app.views.import.summary.list.doneButton.title" = "Import";
+
+
+"app.views.import.summary.list.groupCell.title" = "Group";
+
+
+"app.views.import.summary.title" = "Summary";
+
+
+"app.views.import.title" = "Your contacts";
+
+
+"app.views.list.addButton.import.title" = "Import";
+
+
+"app.views.list.addButton.new.title" = "New";
+
+
+"app.views.list.addMenu.button.fileImport.title" = "Import from file";
+
+
+"app.views.list.addMenu.button.import.title" = "Import contacts";
+
+
+"app.views.list.addMenu.button.new.title" = "Create new";
+
+
+"app.views.list.addMenu.title" = "Add Birthday";
+
+
+"app.views.list.alternativeReviewAlert.button.later" = "Remind me later";
+
+
+"app.views.list.alternativeReviewAlert.button.no" = "I don't wanna help";
+
+
+"app.views.list.alternativeReviewAlert.button.yes" = "Sure! Let's do it!";
+
+
+"app.views.list.alternativeReviewAlert.desc" = "Thank you for choosing Widget Studio. We're so happy to have you on board, and hope you enjoy the full version of Widget Studio. 🎁\n\nDo you have a moment? Leave us a short review on the App Store. This helps us a lot as independent developers.\n\nWe really appreciate your time! ❤️";
+
+
+"app.views.list.alternativeReviewAlert.title" = "Hey! 👋";
+
+
+"app.views.list.cell.readonly.info" = "read-only";
+
+
+"app.views.list.cells.yearsOldSuffix.%d" = "turns %d";
+
+
+"app.views.list.cells.yearsOldSuffix.today.%d" = "turns %d today";
+
+
+"app.views.list.contextMenu.shareController.content.inDays.%@.%d" = "Remember, %@'s birthday is in %d days!";
+
+
+"app.views.list.contextMenu.shareController.content.today.%@" = "Remember, today is %@'s birthday!";
+
+
+"app.views.list.contextMenu.shareController.content.tomorrow.%@" = "Remember, tomorrow is %@'s birthday!";
+
+
+"app.views.list.contextMenu.title.delete" = "Delete";
+
+
+"app.views.list.contextMenu.title.edit" = "Edit";
+
+
+"app.views.list.contextMenu.title.share" = "Share";
+
+
+"app.views.list.rateView.improveAlert.buttons.later" = "Later";
+
+
+"app.views.list.rateView.improveAlert.buttons.ok" = "Submit feedback";
+
+
+"app.views.list.rateView.improveAlert.content" = "Help us to make Widget Studio even better!\n\nAnything missing? Any ideas for future updates? Please let us know.\n\nThank you!";
+
+
+"app.views.list.rateView.improveAlert.title" = "Your Feedback";
+
+
+"app.views.list.rateView.question" = "Do you like Widget Studio? 😍";
+
+
+"app.views.list.rateView.thanksTitle" = "Thank you! ❤️🥳";
+
+
+"app.views.list.title" = "Birthdays";
+
+
+"app.views.list.toolBar.eventsCountLabel.%d" = "%d Birthdays";
+
+
+"app.views.list.welcomeFooterView.2.content" = "Import contacts";
+
+
+"app.views.list.welcomeFooterView.content" = "Let's get started!";
+
+
+"app.views.messageEditor.list.isDefaultSwitch.infoLabel.text" = "Default";
+
+
+"app.views.messageEditor.list.namTextfield.placeholder" = "Template title";
+
+
+"app.views.messageEditor.list.ownNameTextfield.placeholder" = "Your own name";
+
+
+"app.views.messageEditor.list.sectionFooter.isDefault.title" = "Specifies whether this template should be used by default when you sending your congratulations to a contact. This option is ignored if you have linked another template directly to the contact's group using the group settings.";
+
+
+"app.views.messageEditor.list.sectionFooter.ownName.title" = "Your name will be used for all templates that contain the placeholder \"Own name\".";
+
+
+"app.views.messageEditor.list.sectionFooter.placeHolderInfo.title" = "*if available";
+
+
+"app.views.messageEditor.list.sectionHeader.content.title" = "Content";
+
+
+"app.views.messageEditor.title" = "Customize template";
+
+
+"app.views.messages.title" = "Message Templates";
+
+
+"app.views.messagesList.button.addNew" = "Add new template";
+
+
+"app.views.messagesList.selectNoTemplateCell.title" = "Empty template";
+
+
+"app.views.messagesList.tableFooterInfo" = "Templates can be customized in the settings.";
+
+
+"app.views.purchase.allPlansPromo.title" = "New plans available! 🔥";
+
+
+"app.views.purchase.buyButton.subtitle.knownUserDiscount" = "Special price for you";
+
+
+"app.views.purchase.buyButton.title.alreadyProUser" = "Thank you!";
+
+
+"app.views.purchase.buyButton.title.default.default.%@" = "Unlock for %@ /yr";
+
+
+"app.views.purchase.buyButton.title.default.default.2.%@" = "🎁 Introductory offer: %@ /yr";
+
+
+"app.views.purchase.buyButton.title.default.default.discount.%@" = "Unlock for %@ /yr";
+
+
+"app.views.purchase.buyButton.title.default.default.discount.sub.%@" = "Unlock for %@ /yr";
+
+
+"app.views.purchase.buyButton.title.default.default.sub.%@" = "Unlock for %@ /yr";
+
+
+"app.views.purchase.buyButton.title.freeTrialText.%@" = "Start %@ free trial";
+
+
+"app.views.purchase.buyButton.title.freeTrialText.alternative" = "Continue";
+
+
+"app.views.purchase.buyButton.title.freeTrialText.alternative.2" = "Start free trial";
+
+
+"app.views.purchase.buyButton.title.loading" = "Loading...";
+
+
+"app.views.purchase.buyButton.title.new.default" = "Unlock features";
+
+
+"app.views.purchase.buyButton.title.new.default.%@" = "One-time purchase for %@. No subscription!";
+
+
+"app.views.purchase.buyButton.title.new.sub.%@" = "Only %@";
+
+
+"app.views.purchase.buyButton.title.new.sub.withTrial.%@.%@" = "%@ free trial, then only %@";
+
+
+"app.views.purchase.featureList.customColors" = "Custom color gradients";
+
+
+"app.views.purchase.featureList.fileImport" = "File import (e.g. from Facebook)";
+
+
+"app.views.purchase.featureList.iCloud" = "iCloud Sync/Backup (iPad, iPhone, Mac)";
+
+
+"app.views.purchase.featureList.otherApps" = "Discount on other Widget Studio apps";
+
+
+"app.views.purchase.featureList.unlimitedGroups" = "No birthday & group limit";
+
+
+"app.views.purchase.footer.montlyPriceInfo.%@" = "Only %@ per month!";
+
+
+"app.views.purchase.footer.montlyPriceInfo.both.%@.%@" = "%@ /yr | that's %@ a month";
+
+
+"app.views.purchase.footer.noSubscriptionInfo" = "No subscription!";
+
+
+"app.views.purchase.promoAlert.desc" = "Only today and exclusively for you! With a one-time purchase, you unlock all the app's features. If you like, we can remind you again shortly before the offer expires. :)";
+
+
+"app.views.purchase.promoAlert.notInterestedButton.title1" = "Ignore offer";
+
+
+"app.views.purchase.promoAlert.remindAgainButton.defaultTitle" = "Remind me in time";
+
+
+"app.views.purchase.promoAlert.remindAgainButton.remainingTimeTitle.%@" = "Remind me in %@";
+
+
+"app.views.purchase.promoAlert.title" = "Ignore offer?";
+
+
+"app.views.purchase.promoAlert.useOfferButton.title" = "Accept offer";
+
+
+"app.views.purchase.purchaseError.content.%@" = "Something went wrong. Please try again.\n\nDescription:\n%@\n\nIf you need any help, do not hesitate to contact us. Just open the options to send us a message.";
+
+
+"app.views.purchase.purchaseError.title" = "Oops...";
+
+
+"app.views.purchase.restoreButton.title" = "Restore";
+
+
+"app.views.purchase.revenueCat.error.desc.1" = "The device is not activated for purchases.";
+
+
+"app.views.purchase.revenueCat.error.desc.2" = "Purchase invalid. Please check your payment source.";
+
+
+"app.views.purchase.revenueCat.error.desc.3" = "The network connection was interrupted.";
+
+
+"app.views.purchase.subtitle" = "Support the development of Widget Studio and get a bunch of great new features. Sounds fair, doesn't it?";
+
+
+"app.views.purchase.subtitle.discount" = "Unlock all features at a special price! Only today and exclusively for you!";
+
+
+"app.views.purchase.subtitle.discount.existingProUser" = "As an owner of the Pro version of another Widget Studio app, you will get a discount on your purchase.";
+
+
+"app.views.purchase.subtitle.earlyDiscount" = "Unlock all features at a special price! Only today and exclusively for our new users!";
+
+
+"app.views.purchase.title" = "Unleash the full power! ⚡️";
+
+
+"app.views.purchase.title.discount" = "Special offer for you!⚡️🎁";
+
+
+"app.views.purchase.title.discount.existingProUser" = "Thanks for your trust 🧡🎁";
+
+
+"app.views.purchase.title.earlyDiscount" = "Special offer for you!⚡️🎁";
+
+
+"app.views.purchaseAllPlans.footer.familySharingIinfo" = "All plans can be used on iPhone, iPad & Mac and shared within your iCloud family.";
+
+
+"app.views.purchaseAllPlans.title" = "Find a plan that suits you.";
+
+
+"app.views.purchaseAllPlans.title.lifetimeFocus" = "Don't like subscriptions? 🥵";
+
+
+"app.views.reminderEditor.list.sounds.title" = "Sound";
+
+
+"app.views.reminderEditor.list.title.sound" = "Sound";
+
+
+"app.views.reminderEditor.list.title.time" = "Time";
+
+
+"app.views.reminderEditor.list.title.typ" = "Type";
+
+
+"app.views.reminderEditor.list.types.title" = "Reminder type";
+
+
+"app.views.reminderList.button.addNew" = "Add reminder";
+
+
+"app.views.remindersList.title" = "Reminders";
+
+
+"app.views.removeDuplicates.barButton.continue" = "Tidy up";
+
+
+"app.views.removeDuplicates.table.noDataLabel" = "No duplicates found";
+
+
+"app.views.removeDuplicates.table.subtitle.%d.%d" = "%d items found, %d to delete.";
+
+
+"app.views.removeDuplicates.title" = "Duplicates";
+
+
+"app.views.settings.about.crashReportText" = "Send crash reports";
+
+
+"app.views.settings.about.headline" = "Nice to have you around.";
+
+
+"app.views.settings.about.thankyouText" = "Thank you for joining Widget Studio.\nWe hope you enjoy using the app. We truly appreciated all the friends and supporters who helped us to launch the app.";
+
+
+"app.views.settings.aboutt.list.libraries" = "Used libraries";
+
+
+"app.views.settings.aboutt.list.moreApp" = "Other Apps";
+
+
+"app.views.settings.aboutt.list.supportUs" = "Support the development";
+
+
+"app.views.settings.aboutt.proUserText" = "Thanks for your support";
+
+
+"app.views.settings.advanced.dateFormat.auto" = "Auto";
+
+
+"app.views.settings.advanced.list.backgroundStil" = "Background Style";
+
+
+"app.views.settings.advanced.list.dateFormat" = "Date format";
+
+
+"app.views.settings.advanced.list.nameFormat" = "Name Display Order";
+
+
+"app.views.settings.advanced.list.quickActions" = "Quick actions";
+
+
+"app.views.settings.advanced.list.sectionTitle.localization" = "Localization";
+
+
+"app.views.settings.advanced.list.sectionTitle.profile" = "Detail view";
+
+
+"app.views.settings.advanced.nameFormatting.list.firstLast" = "First, Last";
+
+
+"app.views.settings.advanced.nameFormatting.list.lastFirst" = "Last, First";
+
+
+"app.views.settings.exportBirthdays.error.content.otherError" = "Oh no! An error occurred during processing. Please try again or contact our support. Sorry for that!";
+
+
+"app.views.settings.exportBirthdays.sortingAlert.desc" = "How should the birthdays be sorted?";
+
+
+"app.views.settings.exportBirthdays.sortingAlert.sorting.birthday" = "Birthday in calendar year";
+
+
+"app.views.settings.exportBirthdays.sortingAlert.sorting.firstName" = "First name";
+
+
+"app.views.settings.exportBirthdays.sortingAlert.sorting.lastName" = "Last name";
+
+
+"app.views.settings.exportBirthdays.sortingAlert.title" = "CSV export sorting";
+
+
+"app.views.settings.iCloud.activateSwitch.title" = "Use iCloud";
+
+
+"app.views.settings.iCloud.delete.alert.desc" = "Are you sure?\n\nAll data will be removed from your iCloud. Local events will remain on this device.";
+
+
+"app.views.settings.iCloud.delete.alert.ok" = "Delete data";
+
+
+"app.views.settings.iCloud.delete.title" = "Delete iCloud data";
+
+
+"app.views.settings.iCloud.description.Activated" = "Your events are automatically synced between all your devices that have this feature enabled.";
+
+
+"app.views.settings.iCloud.description.Deactivated" = "Use iCloud to synchronize your events on all your devices. If you already use Widget Studio on multiple devices, your events will be merged. Widget Studio is available for iPhone, iPad and the new Macs.";
+
+
+"app.views.settings.iCloud.problem.desc" = "Before reporting a problem, please make sure that you have enabled iCloud for this app on your device. Try restarting the app and wait for the app to finish syncing completely.";
+
+
+"app.views.settings.iCloud.problem.mail.prefix" = "Please describe your problem here...";
+
+
+"app.views.settings.iCloud.problem.title" = "Report a problem";
+
+
+"app.views.settings.iCloud.report.desc" = "Request a report that contains all data currently stored in your private iCloud.";
+
+
+"app.views.settings.iCloud.report.title" = "Request data report";
+
+
+"app.views.settings.list.appStoreReview.alert.alreadyDone" = "Already done";
+
+
+"app.views.settings.list.appStoreReview.alert.content" = "Thank you for using Widget Studio. We're so happy to have you on board.\n\nDo you have a moment? Leave us a short review on the App Store. This helps us a lot as independent developers.\n\nWe really appreciate your time! 💙";
+
+
+"app.views.settings.list.appStoreReview.alert.criticism" = "I'm not happy...";
+
+
+"app.views.settings.list.appStoreReview.alert.done.thanksYou" = "Thank you so much for your support! ❤️";
+
+
+"app.views.settings.list.appStoreReview.alert.openStore" = "Leave a review";
+
+
+"app.views.settings.list.title.about" = "About";
+
+
+"app.views.settings.list.title.advancedSettings" = "Advanced Settings";
+
+
+"app.views.settings.list.title.advancedSettings.short" = "Advanced";
+
+
+"app.views.settings.list.title.appStoreReview" = "Give feedback";
+
+
+"app.views.settings.list.title.exportBirthdays" = "Export Birthdays (csv)";
+
+
+"app.views.settings.list.title.groups" = "Groups";
+
+
+"app.views.settings.list.title.groups.subtitle" = "Organize your contacts into groups.";
+
+
+"app.views.settings.list.title.messages" = "Message Templates";
+
+
+"app.views.settings.list.title.messages.subtitle" = "Create templates for your congratulations.";
+
+
+"app.views.settings.list.title.notifications" = "Notifications";
+
+
+"app.views.settings.list.title.privacyPolicy" = "Privacy Policy";
+
+
+"app.views.settings.list.title.purchase" = "Unlock all features";
+
+
+"app.views.settings.list.title.removeDuplicates" = "Remove duplicates";
+
+
+"app.views.settings.list.title.support" = "Support";
+
+
+"app.views.settings.list.title.terms" = "Terms of Service";
+
+
+"app.views.settings.notifications.alert.missingPermisson.button.cancel" = "Keep deactivated";
+
+
+"app.views.settings.notifications.alert.missingPermisson.button.openSettings" = "Give permisson now";
+
+
+"app.views.settings.notifications.alert.missingPermisson.content" = "Widget Studio is currently not authorized to send notifications.";
+
+
+"app.views.settings.notifications.alert.missingPermisson.title" = "Oops...";
+
+
+"app.views.settings.notifications.infoFooter.missingPermisson" = "Widget Studio is currently not authorized to send notifications.\nTap here to give permission now.";
+
+
+"app.views.settings.notifications.list.groupsCell.sectionFooter.text" = "Notifications can be set individually for each group.";
+
+
+"app.views.settings.notifications.list.groupsCell.title" = "Configure groups";
+
+
+"app.views.settings.notifications.list.messagesCell.sectionFooter.text" = "You can define a preferred text template for each group. The template will appear first when you contact a person of this group.";
+
+
+"app.views.settings.notifications.list.title.acitvate" = "Enabled";
+
+
+"app.views.settings.notifications.sectionFooter.text" = "Widget Studio can send you notifications about upcoming birthdays.";
+
+
+"app.views.settings.title" = "Settings";
+
+
+"app.views.studio.list.title.readonly" = "Read-only";
+
+
+"app.views.support.faq.errorAlert.action.email" = "Send email instead";
+
+
+"app.views.support.faq.errorAlert.desc" = "An error occurred while loading this page.";
+
+
+"app.views.support.faq.errorAlert.error.internet" = "Please check your internet connection and try again.";
+
+
+"app.views.support.faq.errorAlert.title" = "Oops...";
+
+
+"app.zodiacSigns.aquarius" = "Aquarius";
+
+
+"app.zodiacSigns.aries" = "Aries";
+
+
+"app.zodiacSigns.cancer" = "Cancer";
+
+
+"app.zodiacSigns.capricorn" = "Capricorn";
+
+
+"app.zodiacSigns.gemini" = "Gemini";
+
+
+"app.zodiacSigns.leo" = "Leo";
+
+
+"app.zodiacSigns.libra" = "Libra";
+
+
+"app.zodiacSigns.pisces" = "Pisces";
+
+
+"app.zodiacSigns.sagittarius" = "Sagittarius";
+
+
+"app.zodiacSigns.scorpio" = "Scorpio";
+
+
+"app.zodiacSigns.taurus" = "Taurus";
+
+
+"app.zodiacSigns.virgo" = "Virgo";
+
+
+"main.universal.cancel" = "Cancel";
+
+
+"main.universal.cancel" = "Cancel";
+
+
+"main.universal.continue" = "Continue";
+
+
+"main.universal.done" = "Done";
+
+
+"main.universal.edit" = "Edit";
+
+
+"main.universal.ok" = "Okay";
+
+
+"main.universal.save" = "Save";
+
+
+"widget.inline.description" = "Shows which birthdays are next. Flip the switch to specify individual groups.";
+
+
+"widget.inline.displayName" = "Upcoming birthdays";
+
+
+"widget.intent.groupList.subtitle.%d" = "%d Birthdays";
+
+
+"widget.lock.multi.description" = "Shows the remaining days until the next 3 birthdays. Flip the switch to specify individual groups.";
+
+
+"widget.multi.description" = "Shows the remaining days until the next 5 birthdays.";
+
+
+"widget.multi.displayName" = "Remaining days";
+
+
+"widget.multi.subtitle.default" = "Days left until Birthday";
+
+
+"widget.multi.timeline.today" = "Today";
+
+
+"widget.single.description" = "Shows all dates that are important today.";
+
+
+"widget.single.displayName" = "Upcoming Birthdays";
+
+
+"widget.single.placeholder.defaultText" = "No upcoming birthdays";
