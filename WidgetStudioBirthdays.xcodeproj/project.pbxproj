@@ -2301,14 +2301,14 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 96;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = 9K499QHQL9;
+				DEVELOPMENT_TEAM = L3GTYCSW62;
 				INFOPLIST_FILE = WidgetStudioBirthdays/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.9.1;
+				MARKETING_VERSION = 1.9.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.stefanliesendahl.widgetstudio.birthdays;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -2325,14 +2325,14 @@
 				CODE_SIGN_ENTITLEMENTS = WidgetStudioBirthdays/WidgetStudioBirthdays.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 96;
-				DEVELOPMENT_TEAM = 9K499QHQL9;
+				DEVELOPMENT_TEAM = L3GTYCSW62;
 				INFOPLIST_FILE = WidgetStudioBirthdays/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.9.1;
+				MARKETING_VERSION = 1.9.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.stefanliesendahl.widgetstudio.birthdays;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
