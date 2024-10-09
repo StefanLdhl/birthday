@@ -1,0 +1,28 @@
+Yaklaşmakta olan tüm doğum günlerini kolayca takip edin - Direk olarak ana ekranınızdan. Doğum günlerini kişilerinizden direkt olarak aktarın, kendiniz manuel olarak oluşturun veya bir CSV dosyasından otomatik olarak oluşturulmasını sağlayın. Tüm bunlar artık çocuk oyuncağı kadar kolay!
+
+Bir kere kurduktan sonra bir daha asla doğum günlerini unutma konusunda tereddüt etmenize gerek yok.
+
+
+Peki şimdi ne yapıyoruz?
+
+- Kişilerinizin kolayca aktarılması
+- iCloud senkronizasyonu & yedek
+- Güç widgetlar ile Karanlık ve Aydınlık Modları
+- CSV dosyası gibi farklı kaynaklardan aktarım
+- Kişilerin gruplandırılması (arkadaşlar, aile ...)
+- Çok detaylı özelleştirilebilen doğum günü bildirimleri 
+- Doğum günü dilekleriniz için şablonlar
+- Siri Kısayolları için desteği 
+- Mükemmel uyumlu renkler
+- Voice Over ile Dynamic Type için tam destek
+
+Ve daha fazlası!
+
+Widget Studio’nun geliştirilmesi sürecinde bolca sevgimizi kattık umarım sizin de uygulamamızı beğenirsiniz. Ancak hoşunuza gitmeyen bir şey veya heyecan verici bir fikriniz varsa lütfen dilediğiniz zaman bizimle iletişime geçmekten çekinmeyin support@cranberry.app. 
+Mesajınızı bekliyoruz. Kendinize iyi bakın!
+
+
+Info: Most of the app's content is free. Some selected features require the purchase of a full version in the app (recurring annual subscription). We rely on your support to make development possible. Thank you for your understanding! :)
+
+Terms of Use (EULA) & Privacy Policy: https://cranberry.app/legal
+

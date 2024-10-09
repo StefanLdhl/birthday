@@ -1,0 +1,26 @@
+Gardez une trace de tous les anniversaires à venir. - Directement à partir de votre écran d'accueil. Importez les anniversaires directement de vos contacts, créez-les manuellement ou générez-les automatiquement à partir d'un fichier CSV. C'est simple comme bonjour !
+
+Une fois installée, vous n'aurez plus jamais à vous soucier d'oublier un anniversaire.
+
+
+Alors, qu'est-ce que nous avons ici ?
+
+- Importation facile de vos contacts
+- Synchronisation et sauvegarde iCloud
+- Des widgets puissants pour les modes sombre et clair
+- Importation depuis différentes sources via un fichier csv
+- Regroupement de vos contacts (famille, amis, ...)
+- Notifications d'anniversaire hautement personnalisables 
+- Modèles pour vos souhaits d'anniversaire
+- Prise en charge des raccourcis Siri 
+- Dégradés de couleurs parfaitement assortis
+
+Et bien plus encore !
+
+Nous avons mis beaucoup d'amour dans le développement de Widget Studio et nous espérons que vous l'apprécierez. Cependant, si vous avez une critique à faire, ou une suggestion pour de futures mises à jour ou des applications supplémentaires de Widget Studio, n'hésitez pas à nous contacter à tout moment via support@cranberry.app. Nous serons heureux de recevoir votre message. Prenez soin de vous !
+
+
+Info: Most of the app's content is free. Some selected features require the purchase of a full version in the app (recurring annual subscription). We rely on your support to make development possible. Thank you for your understanding! :)
+
+Terms of Use (EULA) & Privacy Policy: https://cranberry.app/legal
+

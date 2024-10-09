@@ -1,0 +1,60 @@
+default_platform(:ios)
+
+platform :ios do
+  desc "Push a new beta build to TestFlight"
+  lane :deploy do
+    app_store_connect_api_key(
+      key_id: "352RHFL69G",
+      issuer_id: "c56e3c15-a7c8-4e13-8cfd-e09ab6595fa5",
+      key_filepath: "./keys/AuthKey_352RHFL69G.p8"
+    )
+
+    build_number = Time.new.strftime("%Y%m%d%H%M")
+
+    increment_build_number(build_number: build_number, xcodeproj: "WidgetStudioBirthdays.xcodeproj")
+
+    build_app(
+      project: "WidgetStudioBirthdays.xcodeproj",
+      scheme: "WidgetStudioBirthdays", 
+      xcargs: "-allowProvisioningUpdates",
+      skip_package_dependencies_resolution: true
+    )
+    
+    upload_to_testflight(skip_waiting_for_build_processing: true)
+    
+    tag build:build_number
+  end
+
+  desc "Push a new metadata"
+  lane :metadata do
+    app_store_connect_api_key(
+      key_id: "352RHFL69G",
+      issuer_id: "c56e3c15-a7c8-4e13-8cfd-e09ab6595fa5",
+      key_filepath: "./keys/AuthKey_352RHFL69G.p8"
+    )
+    
+    deliver(
+      skip_binary_upload: true,
+      skip_screenshots: false,
+      force: true,
+      run_precheck_before_submit: false,
+      metadata_path: "./fastlane/metadata"
+    )
+  end
+
+  desc "Tag Build"
+  lane :tag do |values|
+
+    tag = "\##{values[:build]}"
+
+    add_git_tag(tag: tag)
+
+    # fastlane's push_git_tags method cannot be used as it's executing 'git push origin <tag-name>'
+    # this seems to try to push a branch instead of a tag 🤷‍♂️
+
+    sh("git push origin refs/tags/#{tag}")
+
+    UI.message "Pushed tag 👉 #{tag}"
+  end
+end
+

@@ -1,0 +1,28 @@
+Tieni traccia di tutti i prossimi compleanni, direttamente dalla schermata principale. Importa i compleanni direttamente dai tuoi contatti, creali manualmente o falli generare automaticamente da un file CSV. Facile come contare fino a 3!
+
+Una volta installato non dovrai mai più preoccuparti di dimenticare un compleanno.
+
+
+Quali sono le funzioni?
+
+- Importazione diretta dei tuoi contatti
+- Sincronizzazione e backup di iCloud
+- Potenti widget per la modalità scura e chiara
+- Importazione da diverse fonti tramite file csv
+- Raggruppamento dei contatti (famiglia, amici, ...)
+- Notifiche di compleanno altamente personalizzabili 
+- Modelli per i tuoi auguri di compleanno
+- Supporto per le scorciatoie di Siri 
+- Gradienti di colore perfettamente abbinati
+- Supporto completo per Voice Over e Dynamic Type
+
+E molto altro!
+
+Ci siamo impegnati molto per sviluppare Widget Studio e speriamo che ti piaccia. Tuttavia, se hai qualcosa di cui lamentarti o un'idea interessante per futuri aggiornamenti o applicazioni aggiuntive di Widget Studio, sentiti libero di contattarci in qualsiasi momento a support@cranberry.app. 
+Non vediamo l'ora di ricevere il tuo messaggio. Goditi l’app!
+
+
+Info: Most of the app's content is free. Some selected features require the purchase of a full version in the app (recurring annual subscription). We rely on your support to make development possible. Thank you for your understanding! :)
+
+Terms of Use (EULA) & Privacy Policy: https://cranberry.app/legal
+

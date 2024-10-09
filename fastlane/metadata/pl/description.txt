@@ -1,0 +1,27 @@
+Miej na oku wszystkie nadchodzące urodziny. – będą one widoczne na Twoim ekranie głównym. Importuj daty urodzin bezpośrednio ze swojej listy kontaktów, utwórz je ręcznie lub wygeneruj z pliku CSV. Obsługa aplikacji to bułka z masłem!
+
+Zainstaluj i nie martw się, że znowu zapomnisz o urodzinach. 
+
+Co tutaj znajdziesz?
+
+- Szybki import kontaktów 
+- Synchronizacja i kopia zapasowa iCloud 
+- Widżety w trybie nocnym i dziennym 
+- Import z różnych źródeł za pośrednictwem pliku csv 
+- Grupowanie kontaktów (rodzina, przyjaciele, ...) 
+- Wysoce konfigurowalne powiadomienia o urodzinach 
+- Szablony życzeń urodzinowych 
+- Obsługa skrótów Siri 
+- Idealnie dopasowane gradienty kolorów 
+- Pełna obsługa lektora i funkcji dynamicznego pisania
+I wiele więcej!
+
+Włożyliśmy dużo pracy w rozwój Widget Studio i mamy szczerą nadzieje, że będziesz z niego zadowolony/a. Jeśli jednak coś Ci się nie spodoba lub posiadasz ciekawy pomysł na przyszłe aktualizacje, albo chciałbyś zaproponować nową aplikację Widget Studio, skontaktuj się z nami w dowolnym czasie przez maila support@cranberry.app.
+
+Czekamy na Twoją wiadomość. Trzymaj się!
+
+
+Info: Most of the app's content is free. Some selected features require the purchase of a full version in the app (recurring annual subscription). We rely on your support to make development possible. Thank you for your understanding! :)
+
+Terms of Use (EULA) & Privacy Policy: https://cranberry.app/legal
+

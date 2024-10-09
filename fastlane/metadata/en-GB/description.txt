@@ -1,0 +1,26 @@
+Keep track of all upcoming birthdays. - Directly from your Home Screen. Import birthdays directly from your contacts, create them manually or have them generated automatically from a CSV file. As easy as pie!
+
+Once installed you never have to worry about forgetting a birthday again.
+
+
+So, what do we have here?
+
+- Smooth import of your contacts
+- iCloud synchronization & backup
+- Powerful widgets for Dark & Light Mode
+- Import from different sources via csv file
+- Grouping of your contacts (family, friends, ...)
+- Highly customizable birthday notifications 
+- Templates for your birthday wishes
+- Support for Siri Shortcuts 
+- Perfectly matched color gradients
+
+And much more!
+
+Info: Most of the app's content is free. Some selected features require the purchase of a full version in the app (recurring annual subscription). We rely on your support to make development possible. Thank you for your understanding! :)
+
+Terms of Use (EULA) & Privacy Policy: https://cranberry.app/legal
+
+
+We have put a lot of love into the development of Widget Studio and hope you enjoy it. However, if you have something to complain about, or an exciting idea for future updates or additional apps of Widget Studio, please feel free to contact us at any time via support@cranberry.app. 
+We are looking forward to your message. Take care!
