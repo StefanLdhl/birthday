@@ -36,7 +36,7 @@ class HelpCenterWebViewController: UIViewController {
         loadingIndicator.startAnimating()
         webView.isUserInteractionEnabled = false
 
-        let url = URL(string: "https://cranberry.app/subscription-info")!
+        let url = URL(string: "https://martingo.studio/subscription-info")!
 
         let request = URLRequest(url: url, cachePolicy: .reloadIgnoringCacheData, timeoutInterval: 15)
         webView.load(request)
@@ -84,13 +84,13 @@ extension HelpCenterWebViewController: WKNavigationDelegate {
             return .cancel
         }
 
-        if url.contains("cranberry.app/subscription-restore") {
+        if url.contains("martingo.studio/subscription-restore") {
             dismiss(animated: true)
             delegate?.restoreActionRequested()
             return .cancel
         }
 
-        if url.contains("cranberry.app") {
+        if url.contains("martingo.studio") {
             return .allow
         } else {
             // Im Browser öffnen

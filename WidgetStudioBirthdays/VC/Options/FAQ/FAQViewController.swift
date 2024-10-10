@@ -30,7 +30,7 @@ class FAQViewController: UIViewController {
         loadingIndicator.startAnimating()
         webView.isUserInteractionEnabled = false
 
-        guard let url = URL(string: "https://cranberry.app/birthday") else {
+        guard let url = URL(string: "https://martingo.studio/birthday") else {
             return
         }
 
@@ -64,12 +64,12 @@ class FAQViewController: UIViewController {
         if MFMailComposeViewController.canSendMail() {
             let mail = MFMailComposeViewController()
             mail.mailComposeDelegate = self
-            mail.setToRecipients(["support@cranberry.app"])
+            mail.setToRecipients(["support@martingo.studio"])
             mail.setSubject("app.feedbackMail.subject".localize())
             mail.setMessageBody(mailcontent, isHTML: false)
             present(mail, animated: true, completion: nil)
         } else {
-            guard let url = URL(string: "https://cranberry.app/contact") else {
+            guard let url = URL(string: "https://martingo.studio") else {
                 return
             }
 
@@ -126,7 +126,7 @@ extension FAQViewController: WKNavigationDelegate {
             return .cancel
         }
 
-        if url.contains("cranberry.app") {
+        if url.contains("martingo.studio") {
             return .allow
         } else {
             // Im Browser öffnen

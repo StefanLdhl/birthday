@@ -17,10 +17,10 @@ Alors, qu'est-ce que nous avons ici ?
 
 Et bien plus encore !
 
-Nous avons mis beaucoup d'amour dans le développement de Widget Studio et nous espérons que vous l'apprécierez. Cependant, si vous avez une critique à faire, ou une suggestion pour de futures mises à jour ou des applications supplémentaires de Widget Studio, n'hésitez pas à nous contacter à tout moment via support@cranberry.app. Nous serons heureux de recevoir votre message. Prenez soin de vous !
+Nous avons mis beaucoup d'amour dans le développement de Widget Studio et nous espérons que vous l'apprécierez. Cependant, si vous avez une critique à faire, ou une suggestion pour de futures mises à jour ou des applications supplémentaires de Widget Studio, n'hésitez pas à nous contacter à tout moment via support@martingo.studio. Nous serons heureux de recevoir votre message. Prenez soin de vous !
 
 
 Info: Most of the app's content is free. Some selected features require the purchase of a full version in the app (recurring annual subscription). We rely on your support to make development possible. Thank you for your understanding! :)
 
-Terms of Use (EULA) & Privacy Policy: https://cranberry.app/legal
+Terms of Use (EULA) & Privacy Policy: https://martingo.studio/privacy
 

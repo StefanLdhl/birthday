@@ -340,7 +340,7 @@ class FileImportStartTableViewController: UIViewController {
         }
         
         if let webViewController: FileImportWebViewController = UIStoryboard(type: .fileImport).instantiateViewController() {
-            webViewController.urlToLoad = "https://cranberry.app/birthday/import-help"
+            webViewController.urlToLoad = "https://martingo.studio/birthday-import.html"
 
             let navController = UINavigationController(rootViewController: webViewController)
             navController.navigationBar.prefersLargeTitles = false

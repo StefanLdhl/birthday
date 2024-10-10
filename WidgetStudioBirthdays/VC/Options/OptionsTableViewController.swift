@@ -114,7 +114,7 @@ class OptionsTableViewController: UITableViewController {
 
     private func openTwitter() {
         AppUsageCounter.logEventFor(type: .twitterInterest)
-        guard let url = URL(string: "https://twitter.com/stefanldhl") else {
+        guard let url = URL(string: "https://twitter.com/andremartingo") else {
             return
         }
 
@@ -132,7 +132,7 @@ class OptionsTableViewController: UITableViewController {
     }
 
     private func openTerms() {
-        guard let url = URL(string: "https://cranberry.app/terms") else {
+        guard let url = URL(string: "https://martingo.studio/terms") else {
             return
         }
 
@@ -142,7 +142,7 @@ class OptionsTableViewController: UITableViewController {
     private func openPrivacyPolicy() {
         AppUsageCounter.logEventFor(type: .privacyPolicyOpened)
 
-        guard let url = URL(string: "https://cranberry.app/birthday/privacy") else {
+        guard let url = URL(string: "https://martingo.studio/privacy") else {
             return
         }
 
@@ -240,12 +240,12 @@ class OptionsTableViewController: UITableViewController {
         if MFMailComposeViewController.canSendMail() {
             let mail = MFMailComposeViewController()
             mail.mailComposeDelegate = self
-            mail.setToRecipients(["support@cranberry.app"])
+            mail.setToRecipients(["support@martingo.studio"])
             mail.setSubject("app.feedbackMail.subject".localize())
             mail.setMessageBody(mailcontent, isHTML: false)
             present(mail, animated: true, completion: nil)
         } else {
-            guard let url = URL(string: "https://cranberry.app/contact") else {
+            guard let url = URL(string: "https://martingo.studio") else {
                 return
             }
 

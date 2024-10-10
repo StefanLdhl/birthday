@@ -98,13 +98,13 @@ class CloudSettingsViewController: UITableViewController {
         if MFMailComposeViewController.canSendMail() {
             let mail = MFMailComposeViewController()
             mail.mailComposeDelegate = self
-            mail.setToRecipients(["support@cranberry.app"])
+            mail.setToRecipients(["support@martingo.studio"])
             mail.setSubject("Problem with iCloud Sync")
             mail.setMessageBody(mailcontent, isHTML: false)
 
             present(mail, animated: true, completion: nil)
         } else {
-            guard let url = URL(string: "https://cranberry.app/contact") else {
+            guard let url = URL(string: "https://martingo.studio") else {
                 return
             }
 

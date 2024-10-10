@@ -18,11 +18,11 @@ Peki şimdi ne yapıyoruz?
 
 Ve daha fazlası!
 
-Widget Studio’nun geliştirilmesi sürecinde bolca sevgimizi kattık umarım sizin de uygulamamızı beğenirsiniz. Ancak hoşunuza gitmeyen bir şey veya heyecan verici bir fikriniz varsa lütfen dilediğiniz zaman bizimle iletişime geçmekten çekinmeyin support@cranberry.app. 
+Widget Studio’nun geliştirilmesi sürecinde bolca sevgimizi kattık umarım sizin de uygulamamızı beğenirsiniz. Ancak hoşunuza gitmeyen bir şey veya heyecan verici bir fikriniz varsa lütfen dilediğiniz zaman bizimle iletişime geçmekten çekinmeyin support@martingo.studio. 
 Mesajınızı bekliyoruz. Kendinize iyi bakın!
 
 
 Info: Most of the app's content is free. Some selected features require the purchase of a full version in the app (recurring annual subscription). We rely on your support to make development possible. Thank you for your understanding! :)
 
-Terms of Use (EULA) & Privacy Policy: https://cranberry.app/legal
+Terms of Use (EULA) & Privacy Policy: https://martingo.studio/privacy
 
