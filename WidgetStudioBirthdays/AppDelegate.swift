@@ -10,13 +10,17 @@ import RevenueCat
 import UIKit
 import WidgetKit
 import Zephyr
+import FirebaseCore
+import FirebaseAnalytics
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate, UNUserNotificationCenterDelegate {
     func application(_: UIApplication, didFinishLaunchingWithOptions _: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         let center = UNUserNotificationCenter.current()
         center.delegate = self
-
+        
+        FirebaseApp.configure()
+        
         if !GroupedUserDefaults.bool(forKey: .localUserInfo_defaultDataCreated) {
             GroupedUserDefaults.set(value: true, for: .localUserInfo_defaultDataCreated)
             DefaultDataProvider.generateDefaultData()

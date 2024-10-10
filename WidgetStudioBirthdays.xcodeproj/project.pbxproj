@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		30F682A02CB810FE00D1B516 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 30F6829F2CB810FE00D1B516 /* GoogleService-Info.plist */; };
+		30F682A12CB810FE00D1B516 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 30F6829F2CB810FE00D1B516 /* GoogleService-Info.plist */; };
+		30F682A22CB810FE00D1B516 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 30F6829F2CB810FE00D1B516 /* GoogleService-Info.plist */; };
+		30F682A42CB8115200D1B516 /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = 30F682A32CB8115200D1B516 /* FirebaseAnalytics */; };
+		30F682A62CB8115200D1B516 /* FirebaseAnalyticsWithoutAdIdSupport in Frameworks */ = {isa = PBXBuildFile; productRef = 30F682A52CB8115200D1B516 /* FirebaseAnalyticsWithoutAdIdSupport */; };
+		30F682A82CB8115200D1B516 /* FirebaseAppCheck in Frameworks */ = {isa = PBXBuildFile; productRef = 30F682A72CB8115200D1B516 /* FirebaseAppCheck */; };
+		30F682AA2CB8115200D1B516 /* FirebaseCore in Frameworks */ = {isa = PBXBuildFile; productRef = 30F682A92CB8115200D1B516 /* FirebaseCore */; };
+		30F682AC2CB8115200D1B516 /* FirebaseCrashlytics in Frameworks */ = {isa = PBXBuildFile; productRef = 30F682AB2CB8115200D1B516 /* FirebaseCrashlytics */; };
+		30F682AE2CB8115C00D1B516 /* FirebaseAnalyticsOnDeviceConversion in Frameworks */ = {isa = PBXBuildFile; productRef = 30F682AD2CB8115C00D1B516 /* FirebaseAnalyticsOnDeviceConversion */; };
 		F802293825C8027A000C1A37 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F802293A25C8027A000C1A37 /* InfoPlist.strings */; };
 		F807887B258E69FA00D3C5B8 /* GroupDetailNavigationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F807887A258E69FA00D3C5B8 /* GroupDetailNavigationViewController.swift */; };
 		F8078882258E6B1A00D3C5B8 /* ColorGradientGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8078881258E6B1A00D3C5B8 /* ColorGradientGenerator.swift */; };
@@ -406,6 +415,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		30F6829F2CB810FE00D1B516 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		F802293925C8027A000C1A37 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F802294025C8027E000C1A37 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F807887A258E69FA00D3C5B8 /* GroupDetailNavigationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupDetailNavigationViewController.swift; sourceTree = "<group>"; };
@@ -652,13 +662,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				F84EF089299BD292006AA4F1 /* Zip in Frameworks */,
+				30F682A82CB8115200D1B516 /* FirebaseAppCheck in Frameworks */,
 				F84EF072299BD13C006AA4F1 /* SwiftDate in Frameworks */,
 				F8D49B5E2567A125009A3F03 /* CloudKit.framework in Frameworks */,
+				30F682AA2CB8115200D1B516 /* FirebaseCore in Frameworks */,
 				F84EF08E299BD2A5006AA4F1 /* RevenueCat in Frameworks */,
 				F84EF08C299BD2A5006AA4F1 /* ReceiptParser in Frameworks */,
+				30F682AE2CB8115C00D1B516 /* FirebaseAnalyticsOnDeviceConversion in Frameworks */,
 				F84EF083299BD233006AA4F1 /* Haptica in Frameworks */,
+				30F682A42CB8115200D1B516 /* FirebaseAnalytics in Frameworks */,
+				30F682A62CB8115200D1B516 /* FirebaseAnalyticsWithoutAdIdSupport in Frameworks */,
 				F84EF097299BD336006AA4F1 /* AMPopTip in Frameworks */,
 				F84EF091299BD2C9006AA4F1 /* ProgressHUD in Frameworks */,
+				30F682AC2CB8115200D1B516 /* FirebaseCrashlytics in Frameworks */,
 				F84EF080299BD216006AA4F1 /* Zephyr in Frameworks */,
 				F84EF09A299BD4AD006AA4F1 /* Mantis in Frameworks */,
 			);
@@ -1018,6 +1034,7 @@
 		F8D49B232567A00D009A3F03 /* WidgetStudioBirthdays */ = {
 			isa = PBXGroup;
 			children = (
+				30F6829F2CB810FE00D1B516 /* GoogleService-Info.plist */,
 				F8D49B242567A00D009A3F03 /* AppDelegate.swift */,
 				F8D49B262567A00D009A3F03 /* SceneDelegate.swift */,
 				F8D49DC425681B15009A3F03 /* Localizable.strings */,
@@ -1522,6 +1539,12 @@
 				F84EF090299BD2C9006AA4F1 /* ProgressHUD */,
 				F84EF096299BD336006AA4F1 /* AMPopTip */,
 				F84EF099299BD4AD006AA4F1 /* Mantis */,
+				30F682A32CB8115200D1B516 /* FirebaseAnalytics */,
+				30F682A52CB8115200D1B516 /* FirebaseAnalyticsWithoutAdIdSupport */,
+				30F682A72CB8115200D1B516 /* FirebaseAppCheck */,
+				30F682A92CB8115200D1B516 /* FirebaseCore */,
+				30F682AB2CB8115200D1B516 /* FirebaseCrashlytics */,
+				30F682AD2CB8115C00D1B516 /* FirebaseAnalyticsOnDeviceConversion */,
 			);
 			productName = WidgetStudioBirthdays;
 			productReference = F8D49B212567A00D009A3F03 /* WidgetStudioBirthdays.app */;
@@ -1651,6 +1674,7 @@
 				F84EF08F299BD2C9006AA4F1 /* XCRemoteSwiftPackageReference "ProgressHUD" */,
 				F84EF095299BD336006AA4F1 /* XCRemoteSwiftPackageReference "AMPopTip" */,
 				F84EF098299BD4AD006AA4F1 /* XCRemoteSwiftPackageReference "Mantis" */,
+				30F6829E2CB80FB900D1B516 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
 			);
 			productRefGroup = F8D49B222567A00D009A3F03 /* Products */;
 			projectDirPath = "";
@@ -1681,6 +1705,7 @@
 				F8D49D6D256816CB009A3F03 /* Options.storyboard in Resources */,
 				F808894725B86D3B0077FE55 /* Messages.storyboard in Resources */,
 				F8AB29302577DBA5006A7956 /* Groups.storyboard in Resources */,
+				30F682A12CB810FE00D1B516 /* GoogleService-Info.plist in Resources */,
 				F8D49D74256816D8009A3F03 /* Import.storyboard in Resources */,
 				F8D49B312567A00E009A3F03 /* Assets.xcassets in Resources */,
 				F8D49B2C2567A00D009A3F03 /* Main.storyboard in Resources */,
@@ -1715,6 +1740,7 @@
 				F832AA8125A0747400A4C2AF /* Localizable.strings in Resources */,
 				F81E005125B5D152008E894C /* ProjectColors.xcassets in Resources */,
 				F8FBFE5925BEDFF3008C48A4 /* Assets.xcassets in Resources */,
+				30F682A22CB810FE00D1B516 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1727,6 +1753,7 @@
 				F8FBFE5F25BEDFF3008C48A4 /* Assets.xcassets in Resources */,
 				F8A004902BEBC6AF001DF5E6 /* PrivacyInfo.xcprivacy in Resources */,
 				F81E004525B5D131008E894C /* ProjectColors.xcassets in Resources */,
+				30F682A02CB810FE00D1B516 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2299,7 +2326,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = WidgetStudioBirthdays/WidgetStudioBirthdays.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 96;
+				CURRENT_PROJECT_VERSION = 202410101239;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEVELOPMENT_TEAM = L3GTYCSW62;
 				INFOPLIST_FILE = WidgetStudioBirthdays/Info.plist;
@@ -2324,7 +2351,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = WidgetStudioBirthdays/WidgetStudioBirthdays.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 96;
+				CURRENT_PROJECT_VERSION = 202410101239;
 				DEVELOPMENT_TEAM = L3GTYCSW62;
 				INFOPLIST_FILE = WidgetStudioBirthdays/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
@@ -2346,7 +2373,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 9K499QHQL9;
+				DEVELOPMENT_TEAM = L3GTYCSW62;
 				INFOPLIST_FILE = WidgetStudioBirthdaysTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -2368,7 +2395,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 9K499QHQL9;
+				DEVELOPMENT_TEAM = L3GTYCSW62;
 				INFOPLIST_FILE = WidgetStudioBirthdaysTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -2389,7 +2416,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 9K499QHQL9;
+				DEVELOPMENT_TEAM = L3GTYCSW62;
 				INFOPLIST_FILE = WidgetStudioBirthdaysUITests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -2410,7 +2437,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 9K499QHQL9;
+				DEVELOPMENT_TEAM = L3GTYCSW62;
 				INFOPLIST_FILE = WidgetStudioBirthdaysUITests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -2433,8 +2460,8 @@
 				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
 				CODE_SIGN_ENTITLEMENTS = "WidgetStudioBirthdays WidgetExtension.entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 96;
-				DEVELOPMENT_TEAM = 9K499QHQL9;
+				CURRENT_PROJECT_VERSION = 202410101239;
+				DEVELOPMENT_TEAM = L3GTYCSW62;
 				INFOPLIST_FILE = "WidgetStudioBirthdays Widget/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -2458,8 +2485,8 @@
 				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
 				CODE_SIGN_ENTITLEMENTS = "WidgetStudioBirthdays WidgetExtension.entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 96;
-				DEVELOPMENT_TEAM = 9K499QHQL9;
+				CURRENT_PROJECT_VERSION = 202410101239;
+				DEVELOPMENT_TEAM = L3GTYCSW62;
 				INFOPLIST_FILE = "WidgetStudioBirthdays Widget/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -2481,8 +2508,8 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "WidgetStudioBirthdays Intent/WidgetStudioBirthdays Intent.entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 96;
-				DEVELOPMENT_TEAM = 9K499QHQL9;
+				CURRENT_PROJECT_VERSION = 202410101239;
+				DEVELOPMENT_TEAM = L3GTYCSW62;
 				INFOPLIST_FILE = "WidgetStudioBirthdays Intent/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -2504,8 +2531,8 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "WidgetStudioBirthdays Intent/WidgetStudioBirthdays Intent.entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 96;
-				DEVELOPMENT_TEAM = 9K499QHQL9;
+				CURRENT_PROJECT_VERSION = 202410101239;
+				DEVELOPMENT_TEAM = L3GTYCSW62;
 				INFOPLIST_FILE = "WidgetStudioBirthdays Intent/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -2582,6 +2609,14 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
+		30F6829E2CB80FB900D1B516 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 11.3.0;
+			};
+		};
 		F84EF070299BD13C006AA4F1 /* XCRemoteSwiftPackageReference "SwiftDate" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/malcommac/SwiftDate";
@@ -2649,6 +2684,36 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
+		30F682A32CB8115200D1B516 /* FirebaseAnalytics */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 30F6829E2CB80FB900D1B516 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAnalytics;
+		};
+		30F682A52CB8115200D1B516 /* FirebaseAnalyticsWithoutAdIdSupport */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 30F6829E2CB80FB900D1B516 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAnalyticsWithoutAdIdSupport;
+		};
+		30F682A72CB8115200D1B516 /* FirebaseAppCheck */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 30F6829E2CB80FB900D1B516 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAppCheck;
+		};
+		30F682A92CB8115200D1B516 /* FirebaseCore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 30F6829E2CB80FB900D1B516 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseCore;
+		};
+		30F682AB2CB8115200D1B516 /* FirebaseCrashlytics */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 30F6829E2CB80FB900D1B516 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseCrashlytics;
+		};
+		30F682AD2CB8115C00D1B516 /* FirebaseAnalyticsOnDeviceConversion */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 30F6829E2CB80FB900D1B516 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAnalyticsOnDeviceConversion;
+		};
 		F84EF071299BD13C006AA4F1 /* SwiftDate */ = {
 			isa = XCSwiftPackageProductDependency;
 			package = F84EF070299BD13C006AA4F1 /* XCRemoteSwiftPackageReference "SwiftDate" */;

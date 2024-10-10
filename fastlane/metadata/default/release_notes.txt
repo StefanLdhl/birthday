@@ -1,0 +1,3 @@
+Various improvements and bug fixes.
+
+Thanks a lot for your feedback!
